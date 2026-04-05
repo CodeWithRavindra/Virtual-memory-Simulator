@@ -75,8 +75,8 @@ Page Hits: 1
 ## 👨‍💻 Team Members
 
 * Ravindar Singh
-* Your Friend 1
-* Your Friend 2
+* Arko ghosh
+* Mohammed shoukath
 
 ---
 
